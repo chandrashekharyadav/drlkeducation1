@@ -5104,6 +5104,7 @@ h4 {
 }
 
 @media (max-width: 767px) {
+  .top-bar-custom{ display: none;}
   .testimonial-box {
     padding: 60px 30px 40px;
   }
@@ -6549,4 +6550,4 @@ h4 {
 
 .wa-float-btn.wa-left {
   left: 20px;
-}
+}
